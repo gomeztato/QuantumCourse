@@ -6,6 +6,7 @@ This repository contains the materials of the course about Introduction to Quant
 These notebooks are based on [ProjectQ](http://projectq.ch) and need the next Python packages installed:
 
 * numpy
+* matplotlib
 * CIL
 
 It includes a set of Notebooks to learn some basics about Quantum Programming, with implementations of modern algorithms. Many of them are based on examples comming from ProjectQ and other sites or from publications. In each notebook, the references to the paper or to the original programs are included when needed.
@@ -15,5 +16,6 @@ Also, it includes a modification of the Quantum Simulator [QUIRK](https://algass
 **List of notebooks**
 
 * [First ProjectQ program](Notebooks/Exercise_3_ProjectQ_first_program.ipynb). This Notebook is based on the ProjectQ compiler tutorial. The exercise is an example of [superdense coding](https://en.wikipedia.org/wiki/Superdense_coding).
+* [Executing QFT on IBM Q Experience from ProjectQ](Notebooks/Exercise_4_IBM.ipynb)
 
 
