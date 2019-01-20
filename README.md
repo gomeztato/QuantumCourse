@@ -12,4 +12,7 @@ It includes a set of Notebooks to learn some basics about Quantum Programming, w
 
 Also, it includes a modification of the Quantum Simulator [QUIRK](https://algassert.com/quirk) to change the colors, so the main Quantum gates have the same colors that the [IBM Q Experience](https://quantumexperience.ng.bluemix.net/qx/community) Composer. 
 
+##List of notebooks
+
+    ** [First ProjectQ program](Notebooks/Exercise_3_ProjectQ_first_program.ipynb). This Notebook is based on the ProjectQ compiler tutorial. The exercise is an example of [superdense coding](https://en.wikipedia.org/wiki/Superdense_coding).
 
