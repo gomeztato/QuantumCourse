@@ -1,7 +1,7 @@
 # QuantumCourse
 Notebooks and other stuff for a Quantum Course
 
-This repository contains the materials of the course about Introduction to Quantum Programming that I teach under demand. Please, feel free to send me any comments or corrections so I can improve them. You can use them freely on your own courses (Please, try to cite them!)
+This repository contains the materials of the course about Introduction to Quantum Programming that I teach under demand. Please, feel free to send me any comments or corrections so I can improve them. You can use them freely on your own courses (Please, try to cite it! <img src="https://zenodo.org/badge/165638085.svg"/>)
 
 These notebooks are based on [ProjectQ](http://projectq.ch) and need the next Python packages installed:
 
