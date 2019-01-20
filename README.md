@@ -10,5 +10,6 @@ These notebooks are based on [ProjetQ](http://projectq.ch) and need the next Pyt
 
 It includes a set of Notebooks to learn some basics about Quantum Programming, with implementations of modern algorithms. Many of them are based on examples comming from ProjectQ and other sites or from publications. In each notebook, the references to the paper or to the original programs are included when needed.
 
+Also, it includes a modification of the Quantum Simulator [QUIRK](https://algassert.com/quirk) to change the colors, so the main Quantum gates have the same colors that the [IBM Q Experience](https://quantumexperience.ng.bluemix.net/qx/community) Composer. 
 
 
