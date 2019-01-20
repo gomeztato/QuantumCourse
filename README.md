@@ -17,5 +17,6 @@ Also, it includes a modification of the Quantum Simulator [QUIRK](https://algass
 
 * [First ProjectQ program](Notebooks/Exercise_3_ProjectQ_first_program.ipynb). This Notebook is based on the ProjectQ compiler tutorial. The exercise is an example of [superdense coding](https://en.wikipedia.org/wiki/Superdense_coding).
 * [Executing QFT on IBM Q Experience from ProjectQ](Notebooks/Exercise_4_IBM.ipynb)
+* [Deutsch-Jozsa algorithm](Notebooks/Exercise_5_Deutsch-Jozsa_algorithm.ipynb)
 
 
