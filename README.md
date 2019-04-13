@@ -24,8 +24,8 @@ Also, it includes a modification of the Quantum Simulator [QUIRK](https://algass
 * [Phase Estimation Algorithm](Notebooks/Phase_estimation.ipynb). An example of phase estimation algorithm.
 * [Grover's algorithm](Notebooks/Grover.ipynb). A simple example of Grover's algorithm
 * [Shor's algorithm](Notebooks/Shor.ipynb). A simple example of Shor's algorithm.
-* [HHL algorithm](Notebooks/HHL_algorithm-Coles.ipynb). A simple example of HHL algorithm to solve a sistem of linear equations.
-* [HHL algorithm Cao](Notebooks/HHL_algorithm-Cao-2x2.ipynb). A simple example of HHL algorithm to solve a sistem of linear equations.
+* [HHL algorithm](Notebooks/HHL_algorithm-Coles.ipynb). A simple example of HHL algorithm to solve a system of linear equations.
+* [HHL algorithm Cao](Notebooks/HHL_algorithm-Cao-2x2.ipynb). A simple example of HHL algorithm to solve a system of linear equations.
 * [VQE algorithm](Notebooks/VQE.ipynb). The most basic example of Variational Quantum Eigensolver for the $H_2$ molecule.
 * [QAOA algorithm for optimisation](Notebooks/QAOA.ipynb). Example of the QAOA algorithm using ProjectQ.
 
