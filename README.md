@@ -28,5 +28,6 @@ Also, it includes a modification of the Quantum Simulator [QUIRK](https://algass
 * [HHL algorithm Cao](Notebooks/HHL_algorithm-Cao-2x2.ipynb). A simple example of HHL algorithm to solve a system of linear equations.
 * [VQE algorithm](Notebooks/VQE.ipynb). The most basic example of Variational Quantum Eigensolver for the $H_2$ molecule.
 * [QAOA algorithm for optimisation](Notebooks/QAOA.ipynb). Example of the QAOA algorithm using ProjectQ.
+* [Quantum Machine Learning Regression](Notebooks/Quantum_regression_cg.ipynb). Example of training a Quantum Machine Learning circuit to fit a parabola.
 
 
