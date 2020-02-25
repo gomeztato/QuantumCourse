@@ -26,7 +26,7 @@ Also, it includes a modification of the Quantum Simulator [QUIRK](https://algass
 * **(NEW)**[Find_Edge](Notebooks/Find_Edge.ipynb). An example of using Quantum Paralelism to calculate the edges of one image 
 * [Quantum Fourier Transform](Notebooks/QFT.ipynb). A simple example about what QFT is and how to make it correctly in ProjectQ.
 * [Phase Estimation Algorithm](Notebooks/Phase_estimation.ipynb). An example of phase estimation algorithm.
-* **(NEW)**[Phase_estimation-Hamiltonian] (Notebooks/Phase_estimation-Hamiltonian.ipynb). An example of a phase estimation algorithm for an Hermitian Matrix to show how the eigenvalues are calcualted in parallel. Usefull to understand HHL algorithm later. 
+* **(NEW)**[Phase_estimation-Hamiltonian](Notebooks/Phase_estimation-Hamiltonian.ipynb). An example of a phase estimation algorithm for an Hermitian Matrix to show how the eigenvalues are calcualted in parallel. Usefull to understand HHL algorithm later. 
 * [Grover's algorithm](Notebooks/Grover.ipynb). A simple example of Grover's algorithm
 * [Shor's algorithm](Notebooks/Shor.ipynb). A simple example of Shor's algorithm.
 * [HHL algorithm](Notebooks/HHL_algorithm-Coles.ipynb). A simple example of HHL algorithm to solve a system of linear equations.
@@ -40,7 +40,7 @@ Also, it includes a modification of the Quantum Simulator [QUIRK](https://algass
 
 * **(NEW)**[Dense Coding](Notebooks/qiskit/Dense_Coding.ipynb). A first example of Dense Coding algorithm programmed on qiskit (in Collaboration with J. Mas, from University of Santiago de Compostela).
 * **(NEW)**[Deutsch-Jozsa algorithm](Notebooks/qiskit/Deutsch-Jozsa_algorithm.ipynb). An example of Deutsch-Jozsa algorithm.
-* **(NEW)** [Eigenvalues Hermitian Matrix] (Notebooks/qiskit/Eigenvalues_Hermitian_Matrix-Qiskit.ipynb). An example of a phase estimation algorithm for an Hermitian Matrix to show how the eigenvalues are calcualted in parallel. Usefull to understand HHL algorithm later.
+* **(NEW)**[Eigenvalues Hermitian Matrix](Notebooks/qiskit/Eigenvalues_Hermitian_Matrix-Qiskit.ipynb). An example of a phase estimation algorithm for an Hermitian Matrix to show how the eigenvalues are calcualted in parallel. Usefull to understand HHL algorithm later.
 * **(NEW)**[Find_Edge](Notebooks/qiskit/Find_Edge_qiskit.ipynb). An example of using Quantum Paralelism to calculate the edges of one image 
 * **(NEW)**[Phase Estimation](Notebooks/qiskit/Phase_estimation-Qiskit.ipynb). An example of phase estimation algorithm.
 * **(NEW)**[Quantum Fourier Transform](Notebooks/qiskit/QFT.ipynb). A simple example about what QFT.
