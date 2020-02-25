@@ -40,7 +40,7 @@ Also, it includes a modification of the Quantum Simulator [QUIRK](https://algass
 
 * **(NEW)**[Dense Coding](Notebooks/qiskit/Dense_Coding.ipynb). A first example of Dense Coding algorithm programmed on qiskit (in Collaboration with J. Mas, from University of Santiago de Compostela).
 * **(NEW)**[Deutsch-Jozsa algorithm](Notebooks/qiskit/Deutsch-Jozsa_algorithm.ipynb). An example of Deutsch-Jozsa algorithm.
-* **(NEW)**[Eigenvalues Hermitian Matrix] (Notebooks/qiskit/Eigenvalues_Hermitian_Matrix-Qiskit.ipynb). An example of a phase estimation algorithm for an Hermitian Matrix to show how the eigenvalues are calcualted in parallel. Usefull to understand HHL algorithm later.
+* **(NEW)** [Eigenvalues Hermitian Matrix] (Notebooks/qiskit/Eigenvalues_Hermitian_Matrix-Qiskit.ipynb). An example of a phase estimation algorithm for an Hermitian Matrix to show how the eigenvalues are calcualted in parallel. Usefull to understand HHL algorithm later.
 * **(NEW)**[Find_Edge](Notebooks/qiskit/Find_Edge_qiskit.ipynb). An example of using Quantum Paralelism to calculate the edges of one image 
 * **(NEW)**[Phase Estimation](Notebooks/qiskit/Phase_estimation-Qiskit.ipynb). An example of phase estimation algorithm.
 * **(NEW)**[Quantum Fourier Transform](Notebooks/qiskit/QFT.ipynb). A simple example about what QFT.
